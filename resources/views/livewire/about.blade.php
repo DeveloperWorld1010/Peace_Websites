@@ -13,7 +13,7 @@
                         <grok-card data-id="d50d7a" data-type="image_card" data-arg-size="LARGE"></grok-card>
                         <!-- Placeholder for main about image -->
                         <img src="https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800"
-                            alt="Hope Foundation Team in Action">
+                            alt="Peace Team in Action">
                         <div class="about-badge">
                             <h3>16+</h3>
                             <p>Years of Impact</p>
@@ -23,7 +23,7 @@
                 <div class="col-lg-6">
                     <div class="about-text">
                         <h3>Creating Lasting Change Since 2010</h3>
-                        <p>Founded with a vision to transform lives, Hope Foundation has grown from a small community
+                        <p>Founded with a vision to transform lives, Peace has grown from a small community
                             initiative into a global movement dedicated to empowering underserved populations.</p>
                         <p>We believe sustainable development starts with individuals and communities. Through strategic
                             partnerships and grassroots engagement, we deliver programs in education, healthcare,

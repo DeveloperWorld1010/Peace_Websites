@@ -13,7 +13,7 @@
                 <grok-card data-id="d4315b" data-type="image_card" data-arg-size="LARGE"></grok-card>
 
                 <h2>Our Guiding Principles</h2>
-                <p>At Hope Foundation, our mission and vision serve as the foundation for everything we do. Rooted in
+                <p>At Peace, our mission and vision serve as the foundation for everything we do. Rooted in
                     transparency, accountability, and measurable impact, we strive to create sustainable change in
                     education, healthcare, and community development worldwide. As a professional nonprofit
                     organization, we adhere to the highest standards of governance, ethical practices, and

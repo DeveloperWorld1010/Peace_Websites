@@ -28,7 +28,7 @@
                         <div class="blogs-content">
                             <div class="blogs-date"><i class="far fa-calendar-alt"></i> January 15, 2026</div>
                             <h4>New Education Center Opens in Rural Kenya</h4>
-                            <p>Hope Foundation proudly inaugurated our 75th education center, providing quality learning
+                            <p>Peace proudly inaugurated our 75th education center, providing quality learning
                                 opportunities to over 800 children in underserved rural communities. The facility
                                 includes modern classrooms, a library, and digital learning tools.</p>
                             <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
@@ -148,7 +148,7 @@
                         <div class="blogs-content">
                             <div class="blogs-date"><i class="far fa-calendar-alt"></i> September 5, 2025</div>
                             <h4>Rapid Response to Natural Disaster Aids 20,000 Families</h4>
-                            <p>Hope Foundation's emergency relief team delivered food, shelter, and medical supplies to
+                            <p>Peace's emergency relief team delivered food, shelter, and medical supplies to
                                 communities affected by recent floods.</p>
                             <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
                         </div>

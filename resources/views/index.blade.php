@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hope Foundation - Making a Difference</title>
+    <title>Peace - Making a Difference</title>
 
     <!-- Bootstrap CSS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
@@ -729,7 +729,7 @@
     <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container">
             <a class="navbar-brand" href="#home">
-                <i class="fas fa-hands-helping"></i> Hope Foundation
+                <i class="fas fa-hands-helping"></i> Peace
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
@@ -872,7 +872,7 @@
     <section id="about" class="about-section">
         <div class="container">
             <div class="section-title fade-in">
-                <h2>About Hope Foundation</h2>
+                <h2>About Peace</h2>
                 <p>Building a Better Tomorrow, Today</p>
             </div>
             <div class="about-content">
@@ -881,7 +881,7 @@
                 </div>
                 <div class="about-text fade-in">
                     <h3>Our Story</h3>
-                    <p>Founded in 2010, Hope Foundation began with a simple mission: to create positive change in
+                    <p>Founded in 2010, Peace began with a simple mission: to create positive change in
                         underserved communities. What started as a small initiative has grown into a global movement,
                         touching lives across 45 countries.</p>
                     <p>We believe that every individual deserves access to quality education, healthcare, and
@@ -1135,7 +1135,7 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-section">
-                    <h4><i class="fas fa-hands-helping"></i> Hope Foundation</h4>
+                    <h4><i class="fas fa-hands-helping"></i> Peace</h4>
                     <p>Empowering communities and transforming lives through sustainable development, education, and
                         healthcare initiatives worldwide.</p>
                     <div class="social-links">
@@ -1181,7 +1181,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 Hope Foundation. All Rights Reserved. | Designed with <i class="fas fa-heart"
+                <p>&copy; 2024 Peace. All Rights Reserved. | Designed with <i class="fas fa-heart"
                         style="color: var(--orange);"></i> for a Better World</p>
             </div>
         </div>

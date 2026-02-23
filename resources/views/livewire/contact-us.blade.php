@@ -31,7 +31,7 @@
                             </div>
                             <div>
                                 <h5>Address</h5>
-                                <p>123 Hope Street, Global City<br>New York, NY 10001, USA</p>
+                                <p>PO Box 44- 108 N Maple Rd, Saline,<br>MI 48176, USA</p>
                             </div>
                         </div>
                         <div class="contact-item">
@@ -40,7 +40,7 @@
                             </div>
                             <div>
                                 <h5>Phone</h5>
-                                <p>+1 (555) 123-4567<br>+1 (555) 987-6543</p>
+                                <p>+1(734) 476-0385</p>
                             </div>
                         </div>
                         <div class="contact-item">
@@ -49,7 +49,7 @@
                             </div>
                             <div>
                                 <h5>Email</h5>
-                                <p>info@hopefoundation.org<br>contact@hopefoundation.org</p>
+                                <p>peace@1cor136.org<br>www.1cor136.org</p>
                             </div>
                         </div>
                     </div>

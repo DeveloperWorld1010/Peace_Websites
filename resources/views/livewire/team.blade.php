@@ -2,7 +2,7 @@
     <!-- Breadcrumb Section -->
     @include('partials.breadcrumb', [
         'title' => 'Our Team',
-        'subtitle' => 'Meet the People Behind Hope Foundation',
+        'subtitle' => 'Meet the People Behind Peace',
     ])
     <!-- Team Section -->
     <section class="team-section" style="padding: 50px 0px 50px 0px">
@@ -12,7 +12,7 @@
                     style="font-size: 3rem; font-weight: 800; color: var(--primary-red); font-family: 'Playfair Display', serif; margin-bottom: 2rem;">
                     Dedicated Professionals Driving Change</h2>
                 <p>Our leadership team brings together decades of experience in nonprofit management, international
-                    development, and community empowerment. Passionate and committed, they guide Hope Foundation's
+                    development, and community empowerment. Passionate and committed, they guide Peace's
                     mission to create lasting positive impact worldwide.</p>
             </div>
 

@@ -6,7 +6,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="slide-content">
+                        {{-- <div class="slide-content">
                             <div class="subtitle">Transform Lives Today</div>
                             <h1>Empowering Communities Through Action</h1>
                             <p>Join us in creating lasting change through education, healthcare, and sustainable
@@ -19,11 +19,11 @@
                                     <i class="fas fa-play-circle"></i> Watch Story
                                 </button>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
-            <div class="email-signup-box">
+            {{-- <div class="email-signup-box">
                 <h3>Stay Updated</h3>
                 <p>Subscribe to receive our latest blogs and impact stories</p>
                 <div class="email-input-wrapper">
@@ -46,7 +46,7 @@
                         <span>Project success stories</span>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
 
         <!-- Slide 2 -->
@@ -54,7 +54,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="slide-content">
+                        {{-- <div class="slide-content">
                             <div class="subtitle">Building Better Futures</div>
                             <h1>Education Changes Everything</h1>
                             <p>Every child deserves quality education. Help us build schools, train teachers, and
@@ -67,11 +67,11 @@
                                     <i class="fas fa-users"></i> Join Our Team
                                 </button>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
-            <div class="email-signup-box">
+            {{-- <div class="email-signup-box">
                 <h3>Get Involved</h3>
                 <p>Join thousands making a difference every day</p>
                 <div class="email-input-wrapper">
@@ -94,11 +94,11 @@
                         <span>Direct project updates</span>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
 
         <!-- Slide 3 -->
-        <div class="slide slide-3">
+        {{-- <div class="slide slide-3">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -143,7 +143,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
 
         <!-- Slider Controls -->
         <div class="slider-arrow prev"><i class="fas fa-chevron-left"></i></div>
@@ -151,12 +151,12 @@
         <div class="slider-controls">
             <div class="slider-dot active" data-slide="0"></div>
             <div class="slider-dot" data-slide="1"></div>
-            <div class="slider-dot" data-slide="2"></div>
+            {{-- <div class="slider-dot" data-slide="2"></div> --}}
         </div>
     </section>
 
     <!-- Features Strip -->
-    <section class="features-strip">
+    {{-- <section class="features-strip">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6">
@@ -197,10 +197,10 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <!-- Stats Section -->
-    <section class="stats-section">
+    {{-- <section class="stats-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6">
@@ -233,20 +233,20 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <!-- About Section -->
     <section id="about" class="about-section">
         <div class="container">
             <div class="section-title fade-in">
                 <div class="subtitle">Who We Are</div>
-                <h2>About Hope Foundation</h2>
+                <h2>About Peace</h2>
                 <p>Building a Better Tomorrow, Today</p>
             </div>
             <div class="about-content">
                 <div class="col-lg-5">
                     <div class="about-image">
-                        <img src="https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=600" alt="About Us">
+                        <img src="{{ asset('assets/images/about-us.jpg') }}" alt="About Us">
                         <div class="about-badge">
                             <h3>14+</h3>
                             <p>Years of Impact</p>
@@ -256,15 +256,13 @@
                 <div class="col-lg-6">
                     <div class="about-text">
                         <h3>Creating Lasting Change Since 2010</h3>
-                        <p>Founded with a vision to transform lives, Hope Foundation has grown from a small community
-                            initiative into a global movement. We believe that sustainable development begins with
-                            empowering individuals and communities.</p>
-                        <p>Through strategic partnerships and grassroots engagement, we deliver programs that create
-                            measurable, lasting impact. From education and healthcare to environmental sustainability
-                            and economic empowerment, our work touches every aspect of community development.</p>
-                        <p>What sets us apart is our commitment to sustainability and local ownership. We don't just
-                            implement programs – we build capacity, transfer knowledge, and create systems that
-                            communities can maintain long after we've moved on.</p>
+                        <p>At PEACE, we believe every ministry has the responsibility—and the opportunity—to safeguard
+                            the vulnerable.</p>
+                        <p>We provide biblically grounded, thoughtfully guided resources that helps churches, schools,
+                            and faith based organizations cultivate safe, secure, and caring environments.
+                            Our mission is to honor God by empowering ministries with the practical support, courage,
+                            and confidence to protect their people and cultivate spaces where safety and hope can
+                            thrive.</p>
                         <button class="btn-custom btn-primary-custom mt-3">
                             <i class="fas fa-book-open"></i> Read Our Story
                         </button>
@@ -275,14 +273,14 @@
     </section>
 
     <!-- Team Section -->
-    <section class="team-section">
+    {{-- <section class="team-section">
         <div class="container">
             <div class="team-intro">
                 <h2
                     style="font-size: 3rem; font-weight: 800; color: var(--primary-red); font-family: 'Playfair Display', serif; margin-bottom: 2rem;">
                     Dedicated Professionals Driving Change</h2>
                 <p>Our leadership team brings together decades of experience in nonprofit management, international
-                    development, and community empowerment. Passionate and committed, they guide Hope Foundation's
+                    development, and community empowerment. Passionate and committed, they guide Peace's
                     mission to create lasting positive impact
                     .</p>
             </div>
@@ -381,7 +379,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <!-- Mission & Vision Section -->
     <section class="mv-section">
@@ -390,7 +388,7 @@
                 <grok-card data-id="d4315b" data-type="image_card" data-arg-size="LARGE"></grok-card>
 
                 <h2>Our Guiding Principles</h2>
-                <p>At Hope Foundation, our mission and vision serve as the foundation for everything we do. Rooted in
+                <p>At Peace, our mission and vision serve as the foundation for everything we do. Rooted in
                     transparency, accountability, and measurable impact, we strive to create sustainable change in
                     education, healthcare, and community development worldwide. As a professional nonprofit
                     organization, we adhere to the highest standards of governance, ethical practices, and
@@ -449,7 +447,37 @@
         </div>
     </section>
 
+    <!-- Purpost Section -->
+    <section id="about" class="about-section">
+        <div class="container">
+            <div class="section-title fade-in">
+                <h2>Purpose</h2>
+            </div>
+            <div class="about-content">
+                <div class="col-lg-7">
+                    <div class="about-text">
+                        <h3>Creating Lasting Change Since 2010</h3>
+                        <p>“The purpose of PEACE, is to serve the Body of Christ by empowering ministries to protect the
+                            vulnerable, strengthen trust, and cultivate environments where God’s people can flourish in
+                            safety, dignity, and hope. We exist to provide Christ honoring guidance, resources and
+                            support that help churches, schools, and ministries steward their calling with courage,
+                            compassion, and integrity.”</p>
+                        <button class="btn-custom btn-primary-custom mt-3">
+                            <i class="fas fa-book-open"></i> Read Our Story
+                        </button>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="purpose-image">
+                        <img src="{{ asset('assets/images/purpose.png') }}" alt="Purpose Peace">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Blogs Section -->
+    {{--
     <section class="blogs-section">
         <div class="container">
             <div class="blogs-intro">
@@ -470,7 +498,7 @@
                         <div class="blogs-content">
                             <div class="blogs-date"><i class="far fa-calendar-alt"></i> January 15, 2026</div>
                             <h4>New Education Center Opens in Rural Kenya</h4>
-                            <p>Hope Foundation proudly inaugurated our 75th education center, providing quality learning
+                            <p>Peace proudly inaugurated our 75th education center, providing quality learning
                                 opportunities to over 800 children in underserved rural communities. The facility.</p>
                             <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
                         </div>
@@ -551,7 +579,7 @@
                         <div class="blogs-content">
                             <div class="blogs-date"><i class="far fa-calendar-alt"></i> September 5, 2025</div>
                             <h4>Rapid Response to Natural Disaster Aids 20,000 Families</h4>
-                            <p>Hope Foundation's emergency relief team delivered food, shelter, and medical supplies to
+                            <p>Peace's emergency relief team delivered food, shelter, and medical supplies to
                                 communities affected by recent floods.</p>
                             <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
                         </div>
@@ -559,7 +587,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <!-- Contact Section -->
     <section id="contact" class="contact-section">
@@ -593,7 +621,7 @@
                             </div>
                             <div>
                                 <h5>Address</h5>
-                                <p>123 Hope Street, Global City<br>New York, NY 10001, USA</p>
+                                <p>PO Box 44- 108 N Maple Rd, Saline,<br>MI 48176, USA</p>
                             </div>
                         </div>
                         <div class="contact-item">
@@ -602,7 +630,7 @@
                             </div>
                             <div>
                                 <h5>Phone</h5>
-                                <p>+1 (555) 123-4567<br>+1 (555) 987-6543</p>
+                                <p>+1(734) 476-0385</p>
                             </div>
                         </div>
                         <div class="contact-item">
@@ -611,7 +639,7 @@
                             </div>
                             <div>
                                 <h5>Email</h5>
-                                <p>info@foundation.org<br>contact@foundation.org</p>
+                                <p>peace@1cor136.org<br>www.1cor136.org</p>
                             </div>
                         </div>
                     </div>

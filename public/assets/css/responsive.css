@@ -133,7 +133,8 @@
      }
 
      .mission-card,
-     .vision-card {
+     .vision-card,
+     .matter-card {
          padding: 16px !important;
      }
 
@@ -149,5 +150,13 @@
 
      .contact-section .container .row .contact-info p {
          font-size: 15px !important;
+     }
+
+     .cta-buttons {
+         flex-direction: column;
+     }
+
+     .cta-buttons .btn-custom {
+         width: 100%;
      }
  }
