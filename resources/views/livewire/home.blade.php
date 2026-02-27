@@ -5,145 +5,84 @@
         <div class="slide slide-1 active">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
-                        {{-- <div class="slide-content">
-                            <div class="subtitle">Transform Lives Today</div>
-                            <h1>Empowering Communities Through Action</h1>
-                            <p>Join us in creating lasting change through education, healthcare, and sustainable
-                                development programs that touch lives across 45 countries.</p>
-                            <div class="slide-buttons">
+                    <div class="col-lg-12">
+                        <div class="slide-content">
+                            <h1>CARING AND PROTECTING</h1>
+                            <p>our ultimate mission is to honor god, indicating that faithfullness and spiritual
+                                integrity are foundational motivations .</p>
+                            {{-- <div class="slide-buttons">
                                 <button class="btn-custom btn-primary-custom">
                                     <i class="fas fa-heart"></i> Make A Donation
                                 </button>
                                 <button class="btn-custom btn-outline-custom">
                                     <i class="fas fa-play-circle"></i> Watch Story
                                 </button>
-                            </div>
-                        </div> --}}
+                            </div> --}}
+                        </div>
                     </div>
                 </div>
             </div>
-            {{-- <div class="email-signup-box">
-                <h3>Stay Updated</h3>
-                <p>Subscribe to receive our latest blogs and impact stories</p>
-                <div class="email-input-wrapper">
-                    <input type="email" placeholder="Enter your email address">
-                    <button class="btn-custom btn-primary-custom w-100">
-                        <i class="fas fa-paper-plane"></i> Subscribe
-                    </button>
-                </div>
-                <div class="signup-features">
-                    <div class="signup-feature">
-                        <i class="fas fa-check-circle"></i>
-                        <span>Weekly impact updates</span>
-                    </div>
-                    <div class="signup-feature">
-                        <i class="fas fa-check-circle"></i>
-                        <span>Exclusive volunteer opportunities</span>
-                    </div>
-                    <div class="signup-feature">
-                        <i class="fas fa-check-circle"></i>
-                        <span>Project success stories</span>
-                    </div>
-                </div>
-            </div> --}}
         </div>
 
         <!-- Slide 2 -->
         <div class="slide slide-2">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
-                        {{-- <div class="slide-content">
-                            <div class="subtitle">Building Better Futures</div>
-                            <h1>Education Changes Everything</h1>
-                            <p>Every child deserves quality education. Help us build schools, train teachers, and
-                                provide resources to underserved communities worldwide.</p>
-                            <div class="slide-buttons">
-                                <button class="btn-custom btn-primary-custom">
-                                    <i class="fas fa-graduation-cap"></i> Support Education
-                                </button>
-                                <button class="btn-custom btn-outline-custom">
-                                    <i class="fas fa-users"></i> Join Our Team
-                                </button>
-                            </div>
-                        </div> --}}
-                    </div>
-                </div>
-            </div>
-            {{-- <div class="email-signup-box">
-                <h3>Get Involved</h3>
-                <p>Join thousands making a difference every day</p>
-                <div class="email-input-wrapper">
-                    <input type="email" placeholder="Your email address">
-                    <button class="btn-custom btn-secondary-custom w-100">
-                        <i class="fas fa-user-plus"></i> Join Now
-                    </button>
-                </div>
-                <div class="signup-features">
-                    <div class="signup-feature">
-                        <i class="fas fa-check-circle"></i>
-                        <span>Volunteer opportunities</span>
-                    </div>
-                    <div class="signup-feature">
-                        <i class="fas fa-check-circle"></i>
-                        <span>Community events</span>
-                    </div>
-                    <div class="signup-feature">
-                        <i class="fas fa-check-circle"></i>
-                        <span>Direct project updates</span>
-                    </div>
-                </div>
-            </div> --}}
-        </div>
-
-        <!-- Slide 3 -->
-        {{-- <div class="slide slide-3">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-12">
                         <div class="slide-content">
-                            <div class="subtitle">Healthcare For All</div>
-                            <h1>Bringing Hope Through Healthcare</h1>
-                            <p>Access to healthcare is a fundamental right. Support our mobile clinics and healthcare
-                                initiatives reaching remote communities.</p>
-                            <div class="slide-buttons">
-                                <button class="btn-custom btn-primary-custom">
-                                    <i class="fas fa-heartbeat"></i> Support Healthcare
-                                </button>
-                                <button class="btn-custom btn-outline-custom">
-                                    <i class="fas fa-info-circle"></i> Learn More
-                                </button>
-                            </div>
+                            <h1>CARING AND PROTECTING</h1>
+                            <p>we prioritize cultivating safe, secure, and caring environments within churches schools,
+                                and faith-based organizations.</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="email-signup-box">
-                <h3>Make Impact Today</h3>
-                <p>Start your journey with us - every action matters</p>
-                <div class="email-input-wrapper">
-                    <input type="email" placeholder="Enter email">
-                    <button class="btn-custom btn-primary-custom w-100">
-                        <i class="fas fa-rocket"></i> Get Started
-                    </button>
-                </div>
-                <div class="signup-features">
-                    <div class="signup-feature">
-                        <i class="fas fa-check-circle"></i>
-                        <span>Monthly impact reports</span>
-                    </div>
-                    <div class="signup-feature">
-                        <i class="fas fa-check-circle"></i>
-                        <span>Fundraising campaigns</span>
-                    </div>
-                    <div class="signup-feature">
-                        <i class="fas fa-check-circle"></i>
-                        <span>Donor recognition</span>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="slide slide-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="slide-content">
+                            <h1>PROTECTING THE VULNERABLE</h1>
+                            <p>our centeral value is safeguarding the most vulnerable recognizing both the
+                                responsibility and opportunity ministries have to protect those in their care.</p>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div> --}}
+        </div>
+
+        <!-- Slide 4 -->
+        <div class="slide slide-4">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="slide-content">
+                            <h1>Empowerment</h1>
+                            <p>our aim is to empower ministries by providing practical tools, guidance, courage and
+                                confidence - not just information, but actionable support.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 5 -->
+        <div class="slide slide-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="slide-content">
+                            <h1>Practical Support</h1>
+                            <p>our resources are described as thoughtfully guided and practical, suggesting a value of
+                                clarity, usability, and real-world application.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- Slider Controls -->
         <div class="slider-arrow prev"><i class="fas fa-chevron-left"></i></div>
@@ -151,7 +90,10 @@
         <div class="slider-controls">
             <div class="slider-dot active" data-slide="0"></div>
             <div class="slider-dot" data-slide="1"></div>
-            {{-- <div class="slider-dot" data-slide="2"></div> --}}
+            <div class="slider-dot" data-slide="2"></div>
+            <div class="slider-dot" data-slide="3"></div>
+            <div class="slider-dot" data-slide="4"></div>
+            <div class="slider-dot" data-slide="5"></div>
         </div>
     </section>
 
@@ -241,28 +183,28 @@
             <div class="section-title fade-in">
                 <div class="subtitle">Who We Are</div>
                 <h2>About Peace</h2>
-                <p>Building a Better Tomorrow, Today</p>
+                {{-- <p>Building a Better Tomorrow, Today</p> --}}
             </div>
             <div class="about-content">
                 <div class="col-lg-5">
                     <div class="about-image">
-                        <img src="{{ asset('assets/images/about-us.jpg') }}" alt="About Us">
-                        <div class="about-badge">
+                        <img src="{{ asset('assets/images/purpose.png') }}" alt="About Us">
+                        {{-- <div class="about-badge">
                             <h3>14+</h3>
                             <p>Years of Impact</p>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="about-text">
-                        <h3>Creating Lasting Change Since 2010</h3>
+                        {{-- <h3>Creating Lasting Change Since 2010</h3> --}}
                         <p>At PEACE, we believe every ministry has the responsibility—and the opportunity—to safeguard
-                            the vulnerable.</p>
-                        <p>We provide biblically grounded, thoughtfully guided resources that helps churches, schools,
-                            and faith based organizations cultivate safe, secure, and caring environments.
-                            Our mission is to honor God by empowering ministries with the practical support, courage,
-                            and confidence to protect their people and cultivate spaces where safety and hope can
-                            thrive.</p>
+                            the vulnerable. We provide biblically grounded, thoughtfully guided resources that helps
+                            churches, schools, and faith based organizations cultivate safe, secure, and caring
+                            environments.</p>
+                        <p>Our mission is to honor God by empowering ministries with the practical support, courage, and
+                            confidence to protect their people and cultivate spaces where safety and hope can thrive.
+                        </p>
                         <button class="btn-custom btn-primary-custom mt-3">
                             <i class="fas fa-book-open"></i> Read Our Story
                         </button>
@@ -384,7 +326,7 @@
     <!-- Mission & Vision Section -->
     <section class="mv-section">
         <div class="container">
-            <div class="mv-intro">
+            {{-- <div class="mv-intro">
                 <grok-card data-id="d4315b" data-type="image_card" data-arg-size="LARGE"></grok-card>
 
                 <h2>Our Guiding Principles</h2>
@@ -393,7 +335,7 @@
                     education, healthcare, and community development worldwide. As a professional nonprofit
                     organization, we adhere to the highest standards of governance, ethical practices, and
                     evidence-based programming to ensure every donation makes a meaningful difference.</p>
-            </div>
+            </div> --}}
 
             <div class="row">
                 <div class="col-lg-6">
@@ -403,18 +345,8 @@
                         </div>
                         <h3>Our Mission</h3>
                         <ul class="mv-list">
-                            <li>Deliver high-quality education to underprivileged children in over 45 countries through
-                                sustainable school programs and teacher training</li>
-                            <li>Provide accessible healthcare services via mobile clinics and permanent facilities in
-                                remote and underserved regions</li>
-                            <li>Promote environmental sustainability through conservation projects and climate-resilient
-                                community initiatives</li>
-                            <li>Empower women and youth with vocational training, leadership development, and economic
-                                opportunities</li>
-                            <li>Respond effectively to humanitarian crises with emergency relief and long-term recovery
-                                support</li>
-                            <li>Maintain full financial transparency and rigorous impact evaluation for all programs
-                            </li>
+                            <p>A world where every child has access to quality education and the opportunity to reach
+                                their full potential</p>
                         </ul>
                     </div>
                 </div>
@@ -425,16 +357,7 @@
                         </div>
                         <h3>Our Vision</h3>
                         <ul class="mv-list">
-                            <li>A world where every child has access to quality education and the opportunity to reach
-                                their full potential</li>
-                            <li>Healthy communities with universal access to essential healthcare and nutrition</li>
-                            <li>Sustainable environments protected for future generations through responsible practices
-                            </li>
-                            <li>Equitable societies where gender, economic status, or location no longer limit
-                                opportunity</li>
-                            <li>Resilient global communities capable of thriving amid challenges</li>
-                            <li>A model of nonprofit excellence inspiring trust, collaboration, and collective action
-                                worldwide</li>
+                            <p>A safer world for every ministry, every leader, and every child</p>
                         </ul>
                     </div>
                 </div>
@@ -448,7 +371,7 @@
     </section>
 
     <!-- Purpost Section -->
-    <section id="about" class="about-section">
+    {{-- <section id="about" class="about-section">
         <div class="container">
             <div class="section-title fade-in">
                 <h2>Purpose</h2>
@@ -474,7 +397,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <!-- Blogs Section -->
     {{--
@@ -601,12 +524,13 @@
                 <div class="col-lg-6">
                     <div class="contact-form fade-in">
                         <h3 style="color: var(--primary-red); margin-bottom: 2rem;">Send Us a Message</h3>
-                        <form>
-                            <input type="text" class="form-control" placeholder="Your Name">
-                            <input type="email" class="form-control" placeholder="Your Email">
-                            <input type="text" class="form-control" placeholder="Subject">
-                            <textarea class="form-control" rows="5" placeholder="Your Message"></textarea>
-                            <button type="button" class="btn-custom btn-primary-custom">
+                        <form action="{{ route('contact.submit') }}" method="POST">
+                            @csrf
+                            <input type="text" class="form-control" name="name" placeholder="Your Name" required>
+                            <input type="email" class="form-control" name="email" placeholder="Your Email" required>
+                            <input type="text" class="form-control" name="subject" placeholder="Subject" required>
+                            <textarea class="form-control" rows="6" name="message" placeholder="Your Message" required></textarea>
+                            <button type="submit" class="btn-custom">
                                 <i class="fas fa-paper-plane"></i> Send Message
                             </button>
                         </form>
@@ -621,7 +545,7 @@
                             </div>
                             <div>
                                 <h5>Address</h5>
-                                <p>PO Box 44- 108 N Maple Rd, Saline,<br>MI 48176, USA</p>
+                                <p>PO Box 44 - Saline, MI 48176</p>
                             </div>
                         </div>
                         <div class="contact-item">

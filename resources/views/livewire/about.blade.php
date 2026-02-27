@@ -4,35 +4,35 @@
     @include('partials.breadcrumb', ['title' => 'About Us', 'subtitle' => 'Our Story'])
 
     <!-- About Section -->
-    <section class="about-section">
+    <section id="about" class="about-section">
         <div class="container">
+            <div class="section-title fade-in">
+                <div class="subtitle">Who We Are</div>
+                <h2>About Peace</h2>
+                {{-- <p>Building a Better Tomorrow, Today</p> --}}
+            </div>
             <div class="about-content">
-                <div class="col-lg-6">
+                <div class="col-lg-5">
                     <div class="about-image">
-                        <grok-card data-id="b5ef7a" data-type="image_card" data-arg-size="LARGE"></grok-card>
-                        <grok-card data-id="d50d7a" data-type="image_card" data-arg-size="LARGE"></grok-card>
-                        <!-- Placeholder for main about image -->
-                        <img src="https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800"
-                            alt="Peace Team in Action">
-                        <div class="about-badge">
-                            <h3>16+</h3>
+                        <img src="{{ asset('assets/images/purpose.png') }}" alt="About Us">
+                        {{-- <div class="about-badge">
+                            <h3>14+</h3>
                             <p>Years of Impact</p>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="about-text">
-                        <h3>Creating Lasting Change Since 2010</h3>
-                        <p>Founded with a vision to transform lives, Peace has grown from a small community
-                            initiative into a global movement dedicated to empowering underserved populations.</p>
-                        <p>We believe sustainable development starts with individuals and communities. Through strategic
-                            partnerships and grassroots engagement, we deliver programs in education, healthcare,
-                            environmental sustainability, and economic empowerment.</p>
-                        <p>Our commitment to local ownership sets us apart—we build capacity, transfer knowledge, and
-                            create systems communities can sustain long-term.</p>
-                        <p>Join us in building a better tomorrow, today.</p>
-                        <button class="btn-custom">
-                            <i class="fas fa-book-open"></i> Read Our Full Story
+                        {{-- <h3>Creating Lasting Change Since 2010</h3> --}}
+                        <p>At PEACE, we believe every ministry has the responsibility—and the opportunity—to safeguard
+                            the vulnerable. We provide biblically grounded, thoughtfully guided resources that helps
+                            churches, schools, and faith based organizations cultivate safe, secure, and caring
+                            environments.</p>
+                        <p>Our mission is to honor God by empowering ministries with the practical support, courage, and
+                            confidence to protect their people and cultivate spaces where safety and hope can thrive.
+                        </p>
+                        <button class="btn-custom btn-primary-custom mt-3">
+                            <i class="fas fa-book-open"></i> Read Our Story
                         </button>
                     </div>
                 </div>
@@ -41,7 +41,7 @@
     </section>
 
     <!-- Gallery Section: Our Impact in Action -->
-    <section class="gallery-section">
+    {{-- <section class="gallery-section">
         <div class="container">
             <h2>Our Impact in Action</h2>
             <div class="row g-4">
@@ -95,5 +95,5 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 </div>

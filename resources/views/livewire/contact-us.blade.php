@@ -31,7 +31,7 @@
                             </div>
                             <div>
                                 <h5>Address</h5>
-                                <p>PO Box 44- 108 N Maple Rd, Saline,<br>MI 48176, USA</p>
+                                <p>PO Box 44 - Saline, MI 48176</p>
                             </div>
                         </div>
                         <div class="contact-item">

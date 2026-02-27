@@ -49,8 +49,7 @@
                 </div> --}}
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 Peace. All Rights Reserved. | Designed with <i class="fas fa-heart"
-                        style="color: var(--orange);"></i> for a Better World</p>
+                <p>&copy; 2024 Peace. All Rights Reserved. | Designed by <b><a href="https://www.uncommonustech.com/"  style="text-decoration: none; color:white" target="_blank">Uncommon US Tech</a></b> </p>
             </div>
         </div>
     </footer>

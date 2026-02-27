@@ -2,7 +2,7 @@
  <nav class="main-navbar navbar navbar-expand-lg">
      <div class="container">
          <a class="navbar-brand" href="#home">
-             <img src="{{ asset('assets/images/logo_horizontal.png') }}" class="navbar-logo"  height="80"
+             <img src="{{ asset('assets/images/final_logo.png') }}" class="navbar-logo"  height="80"
                  alt="">
          </a>
          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">

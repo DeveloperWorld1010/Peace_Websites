@@ -11,10 +11,10 @@
         <div class="container">
             <div class="why-intro">
                 <h2>Why It Matters</h2>
-                <p>At Peace, we are driven by a core belief that every person deserves protection, every
+                {{-- <p>At Peace, we are driven by a core belief that every person deserves protection, every
                     ministry deserves clarity, and that safeguarding the vulnerable is central to living out Christlike
                     love. Our work is rooted in these fundamental principles that guide every decision we make and every
-                    program we implement.</p>
+                    program we implement.</p> --}}
             </div>
 
             <!-- Three Reasons Cards -->

@@ -24,7 +24,7 @@ $(document).ready(function () {
     }
 
     // Auto slide every 10 seconds
-    let autoSlide = setInterval(nextSlide, 10000);
+    // let autoSlide = setInterval(nextSlide, 10000);
 
     // Next button
     $('.slider-arrow.next').click(function () {
