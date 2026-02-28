@@ -4,15 +4,16 @@
             <div class="footer-content">
                 <div class="footer-section">
                     <h4><img src="{{ asset('assets/images/logo.png') }}" alt="Peace Logo" width="90"></h4>
-                    <p>Empowering communities and transforming lives through sustainable development, education, and
-                        healthcare initiatives worldwide.</p>
-                    <div class="social-links">
+                    <p>At PEACE, we believe every ministry has the responsibility—and the opportunity—to safeguard the
+                        vulnerable. We provide biblically grounded, thoughtfully guided resources that helps churches,
+                        schools, and faith based organizations cultivate safe, secure, and caring environments</p>
+                    {{-- <div class="social-links">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
                         <a href="#"><i class="fab fa-instagram"></i></a>
                         <a href="#"><i class="fab fa-linkedin-in"></i></a>
                         <a href="#"><i class="fab fa-youtube"></i></a>
-                    </div>
+                    </div> --}}
                 </div>
                 <div class="footer-section">
                     <h4>Quick Links</h4>
@@ -49,7 +50,9 @@
                 </div> --}}
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 Peace. All Rights Reserved. | Designed by <b><a href="https://www.uncommonustech.com/"  style="text-decoration: none; color:white" target="_blank">Uncommon US Tech</a></b> </p>
+                <p>&copy; {{ date('Y') }} Peace. All Rights Reserved. | Designed by <b><a
+                            href="https://www.uncommonustech.com/" style="text-decoration: none; color:white"
+                            target="_blank">Uncommon US Tech</a></b> </p>
             </div>
         </div>
     </footer>

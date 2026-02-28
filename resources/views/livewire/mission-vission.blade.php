@@ -20,20 +20,22 @@
                     evidence-based programming to ensure every donation makes a meaningful difference.</p>
             </div> --}}
 
-            <div class="row">
-                <div class="col-lg-6">
+            <div class="row g-5">
+                <div class="col-lg-12">
                     <div class="mission-card">
                         <div class="mv-icon mission">
                             <i class="fas fa-bullseye"></i>
                         </div>
                         <h3>Our Mission</h3>
                         <ul class="mv-list">
-                            <p>A world where every child has access to quality education and the opportunity to reach
-                                their full potential</p>
+                            <p>At PEACE, we believe every ministry has the responsibility—and the opportunity—to
+                                safeguard the vulnerable. We provide biblically grounded, thoughtfully guided resources
+                                that helps churches, schools, and faith based organizations cultivate safe, secure, and
+                                caring environments</p>
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-12">
                     <div class="vision-card">
                         <div class="mv-icon vision">
                             <i class="fas fa-eye"></i>

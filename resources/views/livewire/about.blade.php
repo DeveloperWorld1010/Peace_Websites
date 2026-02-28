@@ -7,7 +7,7 @@
     <section id="about" class="about-section">
         <div class="container">
             <div class="section-title fade-in">
-                <div class="subtitle">Who We Are</div>
+                {{-- <div class="subtitle">Who We Are</div> --}}
                 <h2>About Peace</h2>
                 {{-- <p>Building a Better Tomorrow, Today</p> --}}
             </div>
@@ -31,9 +31,9 @@
                         <p>Our mission is to honor God by empowering ministries with the practical support, courage, and
                             confidence to protect their people and cultivate spaces where safety and hope can thrive.
                         </p>
-                        <button class="btn-custom btn-primary-custom mt-3">
+                        {{-- <button class="btn-custom btn-primary-custom mt-3">
                             <i class="fas fa-book-open"></i> Read Our Story
-                        </button>
+                        </button> --}}
                     </div>
                 </div>
             </div>

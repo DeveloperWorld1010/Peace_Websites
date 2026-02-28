@@ -59,9 +59,9 @@
     </section>
 
     <!-- Map Section -->
-    <section class="map-section">
+    {{-- <section class="map-section">
         <iframe src="https://www.google.com/maps?q=New+Delhi,India&output=embed" loading="lazy" width="100%"
             height="450" style="border:0;" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade">
         </iframe>
-    </section>
+    </section> --}}
 </div>

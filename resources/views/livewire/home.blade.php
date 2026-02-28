@@ -181,7 +181,7 @@
     <section id="about" class="about-section">
         <div class="container">
             <div class="section-title fade-in">
-                <div class="subtitle">Who We Are</div>
+                {{-- <div class="subtitle">Who We Are</div> --}}
                 <h2>About Peace</h2>
                 {{-- <p>Building a Better Tomorrow, Today</p> --}}
             </div>
@@ -205,9 +205,9 @@
                         <p>Our mission is to honor God by empowering ministries with the practical support, courage, and
                             confidence to protect their people and cultivate spaces where safety and hope can thrive.
                         </p>
-                        <button class="btn-custom btn-primary-custom mt-3">
+                        <a class="btn-custom btn-primary-custom mt-3" style="text-decoration: none" href="{{ route('about') }}">
                             <i class="fas fa-book-open"></i> Read Our Story
-                        </button>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -337,20 +337,24 @@
                     evidence-based programming to ensure every donation makes a meaningful difference.</p>
             </div> --}}
 
-            <div class="row">
-                <div class="col-lg-6">
+            <div class="row g-5">
+                <div class="col-lg-12">
                     <div class="mission-card">
                         <div class="mv-icon mission">
                             <i class="fas fa-bullseye"></i>
                         </div>
                         <h3>Our Mission</h3>
                         <ul class="mv-list">
-                            <p>A world where every child has access to quality education and the opportunity to reach
-                                their full potential</p>
+                            <p>Our mission is to serve the Body of Christ by equipping ministries to safeguard the
+                                vulnerable, strengthen institutional trust, and foster environments where all of God’s
+                                people can flourish in safety, dignity, and hope. Through Christ honoring guidance,
+                                comprehensive resources, and strategic support, we empower churches, schools, and
+                                ministries to steward their calling with courage, compassion, and unwavering integrity.
+                            </p>
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-12">
                     <div class="vision-card">
                         <div class="mv-icon vision">
                             <i class="fas fa-eye"></i>
@@ -516,9 +520,9 @@
     <section id="contact" class="contact-section">
         <div class="container">
             <div class="section-title fade-in">
-                <div class="subtitle">Connect With Us</div>
-                <h2>Get In Touch</h2>
-                <p>We'd love to hear from you</p>
+                {{-- <div class="subtitle">Connect With Us</div> --}}
+                <h2>Invite us into the conversation</h2>
+                <p>We’re here to help – Let’s Talk</p>
             </div>
             <div class="row">
                 <div class="col-lg-6">
