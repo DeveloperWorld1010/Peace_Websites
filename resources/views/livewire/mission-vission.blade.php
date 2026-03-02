@@ -31,7 +31,7 @@
                             <p>At PEACE, we believe every ministry has the responsibility—and the opportunity—to
                                 safeguard the vulnerable. We provide biblically grounded, thoughtfully guided resources
                                 that helps churches, schools, and faith based organizations cultivate safe, secure, and
-                                caring environments</p>
+                                caring environments.</p>
                         </ul>
                     </div>
                 </div>
@@ -42,7 +42,7 @@
                         </div>
                         <h3>Our Vision</h3>
                         <ul class="mv-list">
-                            <p>A safer world for every ministry, every leader, and every child</p>
+                            <p>A safer world for every ministry, every leader, and every child.</p>
                         </ul>
                     </div>
                 </div>

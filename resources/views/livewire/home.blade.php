@@ -7,7 +7,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="slide-content">
-                            <h1>CARING AND PROTECTING</h1>
+                            <h1>HONOR GOD</h1>
                             <p>our ultimate mission is to honor god, indicating that faithfullness and spiritual
                                 integrity are foundational motivations .</p>
                             {{-- <div class="slide-buttons">
@@ -361,7 +361,7 @@
                         </div>
                         <h3>Our Vision</h3>
                         <ul class="mv-list">
-                            <p>A safer world for every ministry, every leader, and every child</p>
+                            <p>A safer world for every ministry, every leader, and every child.</p>
                         </ul>
                     </div>
                 </div>
